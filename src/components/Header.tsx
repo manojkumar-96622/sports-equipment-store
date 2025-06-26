@@ -34,7 +34,7 @@ const Header = () => {
             <div className="bg-gradient-to-r from-blue-800 to-orange-500 p-2 rounded-lg group-hover:scale-105 transition-transform">
               <Target className="h-6 w-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900">ProGear Sports</span>
+            <span className="text-xl font-bold text-gray-900"> TitanGear </span>
           </Link>
 
           {/* Desktop Navigation */}

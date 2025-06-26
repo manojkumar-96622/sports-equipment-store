@@ -96,7 +96,7 @@ const Newsletter = () => {
                   </button>
                 </div>
                 <p className="text-blue-200 text-sm text-center">
-                  Join over 10,000 athletes who trust ProGear Sports. Unsubscribe anytime.
+                  Join over 10,000 athletes who trust TitanGear. Unsubscribe anytime.
                 </p>
               </form>
             ) : (

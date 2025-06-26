@@ -7,21 +7,21 @@ const Categories = () => {
       id: 1,
       name: 'Cricket',
       description: 'Professional cricket bats, balls, protective gear, and accessories',
-      image: 'https://images.pexels.com/photos/5367678/pexels-photo-5367678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://media.istockphoto.com/id/1144289750/photo/white-shiny-cricket-ball-for-one-day-international-match-on-isolated-white-background-3d.jpg?b=1&s=612x612&w=0&k=20&c=Ye0zrF_1h_BcUTtPp9pPuSkomCVf3QKglj3BQWmxOsQ=',
       gradient: 'from-blue-600 to-blue-800'
     },
     {
       id: 2,
       name: 'Football',
       description: 'High-quality footballs, boots, jerseys, and training equipment',
-      image: 'https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image:'https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg',
       gradient: 'from-green-600 to-green-800'
     },
     {
       id: 3,
       name: 'Badminton',
       description: 'Premium racquets, shuttlecocks, shoes, and court accessories',
-      image: 'https://images.pexels.com/photos/8007401/pexels-photo-8007401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      image: 'https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg',
       gradient: 'from-purple-600 to-purple-800'
     },
     {

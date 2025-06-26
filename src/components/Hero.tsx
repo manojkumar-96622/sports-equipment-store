@@ -33,7 +33,7 @@ const Hero = () => {
               </h1>
               <p className="text-xl text-blue-100 leading-relaxed max-w-lg">
                 Professional-grade sports equipment for cricket, football, badminton, and fitness. 
-                Elevate your game with ProGear Sports.
+                Elevate your game with TitanGear.
               </p>
             </div>
 
@@ -83,7 +83,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://images.pexels.com/photos/2827392/pexels-photo-2827392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="https://media.istockphoto.com/id/1136317339/photo/sports-equipment-on-floor.jpg?s=612x612&w=0&k=20&c=-aI8u_Se89IC-HJZYH724ei5z-bIcSvRW6qUwyMtRyE="
                 alt="Professional Sports Equipment"
                 className="w-full h-auto rounded-2xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
               />

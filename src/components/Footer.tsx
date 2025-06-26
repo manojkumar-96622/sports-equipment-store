@@ -13,11 +13,11 @@ const Footer = () => {
               <div className="bg-gradient-to-r from-blue-600 to-orange-500 p-2 rounded-lg">
                 <Target className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">ProGear Sports</span>
+              <span className="text-xl font-bold"> TitanGear </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Professional sports equipment for athletes of all levels. 
-              Gear up, play hard, win big with ProGear Sports.
+              Gear up, play hard, win big with TitanGear.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
@@ -60,15 +60,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-orange-500" />
-                <span className="text-gray-400 text-sm">123 Sports Avenue, Mumbai, India</span>
+                <span className="text-gray-400 text-sm">bachupally,mallampet,Hyderabad</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-orange-500" />
-                <span className="text-gray-400 text-sm">+91 98765 43210</span>
+                <span className="text-gray-400 text-sm">+91 9121032468</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-orange-500" />
-                <span className="text-gray-400 text-sm">info@progearsports.com</span>
+                <span className="text-gray-400 text-sm">adepumanojkumar96@gmail.com</span>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 ProGear Sports. All rights reserved. | Designed for athletes, by athletes.
+            © 2025 TitanGear. All rights reserved. | Designed for athletes, by athletes.
           </p>
         </div>
       </div>

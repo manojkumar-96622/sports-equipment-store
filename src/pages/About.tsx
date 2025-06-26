@@ -70,7 +70,7 @@ const About = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">
-              About <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-400">ProGear Sports</span>
+              About <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-400"> TitanGear </span>
             </h1>
             <p className="text-xl text-blue-100 leading-relaxed">
               We are passionate about empowering athletes of all levels with professional-grade sports equipment. 
@@ -219,7 +219,7 @@ const About = () => {
               <div className="bg-white p-8 rounded-2xl shadow-lg">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">The Beginning (2010)</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  ProGear Sports was founded by former cricket player Vikram Singh, who experienced firsthand 
+                  TitanGear was founded by former cricket player Vikram Singh, who experienced firsthand 
                   the challenge of finding quality sports equipment at affordable prices. After retiring from 
                   professional cricket, he decided to bridge this gap by creating a store that would serve 
                   athletes of all levels.
@@ -240,7 +240,7 @@ const About = () => {
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Digital Transformation (2020-Present)</h3>
                 <p className="text-gray-600 leading-relaxed">
                   Embracing the digital age, we launched our online platform to reach athletes nationwide. 
-                  Today, ProGear Sports serves customers across 100+ cities, maintaining the same personal 
+                  Today, TitanGear serves customers across 100+ cities, maintaining the same personal 
                   touch and expert guidance that made us successful, now enhanced by the convenience of 
                   online shopping.
                 </p>

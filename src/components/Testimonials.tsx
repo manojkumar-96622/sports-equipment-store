@@ -10,7 +10,7 @@ const Testimonials = () => {
       location: 'Mumbai',
       image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400',
       rating: 5,
-      text: 'ProGear Sports has been my go-to store for all cricket equipment. The quality is exceptional and the prices are very reasonable. My entire team now uses equipment from ProGear!',
+      text: 'TitanGear has been my go-to store for all cricket equipment. The quality is exceptional and the prices are very reasonable. My entire team now uses equipment from ProGear!',
       category: 'Cricket'
     },
     {
@@ -44,7 +44,7 @@ const Testimonials = () => {
             What Our <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-orange-500">Athletes Say</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Don't just take our word for it. Here's what our customers have to say about their ProGear Sports experience
+            Don't just take our word for it. Here's what our customers have to say about their TitanGear experience
           </p>
         </div>
 
@@ -106,7 +106,7 @@ const Testimonials = () => {
               Join Thousands of Satisfied Athletes
             </h3>
             <p className="text-gray-600 mb-6">
-              Experience the ProGear Sports difference and take your game to the next level
+              Experience the TitanGear difference and take your game to the next level
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-gradient-to-r from-blue-600 to-orange-500 hover:from-blue-700 hover:to-orange-600 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105">
